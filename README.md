@@ -1,6 +1,6 @@
 # JavaScript-code-challenge
 
 ## list
-| No | 主題 | 筆記 | DEMO |
+| № | Theme | CODE | DEMO |
 | --- | --- | --- | --- |
-| 01 | JavaScript Drum Kit | [CODE]() | [DEMO]() |
+| 01 | JavaScript Drum Kit | [CODE](https://github.com/muborizMirzoev/JavaScript-code-challenge/tree/main/01%20-%20JavaScript%20Drum%20Kit) | [DEMO](https://muborizmirzoev.github.io/JavaScript-code-challenge/) |
